@@ -12,4 +12,4 @@ $jobID=$_GET['id'];
 	mysqli_stmt_execute($stmt);  //執行SQL
 	echo "message deleted.";
 ?>
-<a href="1.fetch.html">回工作列表</a>
+
